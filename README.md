@@ -1,2 +1,5 @@
 # wp-h-delete-old-remote-files
-Automatisches L&amp;ouml;schen alter Dateien per FTP auf Remote Server/NAS
+
+Automatisches Löschen alter Dateien per FTP auf Remote Server/NAS
+
+Deutsche Anleitung / German tutorial: https://web266.de/software/eigene-plugins/wp-h-delete-old-remote-files/
